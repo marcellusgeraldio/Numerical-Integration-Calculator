@@ -109,5 +109,3 @@ print(my_num_calc(f2, -1, 1, 100001, "simp"))  # n besar
 * Membiasakan penggunaan **NumPy** dalam perhitungan ilmiah.
 
 ---
-
-Apakah kamu mau saya ubah ini jadi file `README.md` yang bisa langsung kamu upload ke GitHub (biar format markdown-nya sempurna)?
