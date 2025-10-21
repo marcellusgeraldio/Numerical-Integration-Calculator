@@ -1,8 +1,3 @@
-Keren banget — kamu sudah bikin fungsi integrasi numerik custom sendiri 👏
-Berikut versi **README.md profesional dan rapi** untuk kode Python di atas:
-
----
-
 # 📐 **Numerical Integration Calculator (Python)**
 
 Proyek ini merupakan implementasi **integrasi numerik** dalam bahasa **Python**, menggunakan tiga metode populer:
