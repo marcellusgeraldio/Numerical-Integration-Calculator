@@ -37,21 +37,18 @@ Mengembalikan nilai pendekatan integral fungsi `f` pada interval ([a, b]).
 
 ### 1️⃣ **Rectangular Rule (Riemann Sum)**
 
-[
-I = \sum_{i=1}^{n-1} f(x_i) \cdot h
-]
+<img width="162" height="77" alt="image" src="https://github.com/user-attachments/assets/508a203f-ce55-4cbf-8043-9cadb148915c" />
+
 
 ### 2️⃣ **Trapezoidal Rule**
 
-[
-I = \frac{h}{2} \left[f(x_0) + 2 \sum_{i=1}^{n-2} f(x_i) + f(x_{n-1})\right]
-]
+<img width="334" height="85" alt="image" src="https://github.com/user-attachments/assets/35892517-6e31-4dd2-86be-21424f0056c5" />
+
 
 ### 3️⃣ **Simpson’s Rule**
 
-[
-I = \frac{h}{3} \left[f(x_0) + 4\sum_{i=1,3,5}^{n-2} f(x_i) + 2\sum_{i=2,4,6}^{n-3} f(x_i) + f(x_{n-1})\right]
-]
+<img width="429" height="81" alt="image" src="https://github.com/user-attachments/assets/cc65a023-d576-4589-b42b-353693844047" />
+
 
 📌 *Catatan:* Untuk metode Simpson, jumlah segmen ((n-1)) **harus genap**.
 
